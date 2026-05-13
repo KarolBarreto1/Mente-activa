@@ -79,7 +79,8 @@ Esta funcionalidad permite adaptar las herramientas y servicios según las neces
 
 <div align="center">
 
-<img width="916" height="641" alt="image" src="https://github.com/user-attachments/assets/1a1269e1-a566-4be9-ab1f-41022832245d" />
+<img width="613" height="409" alt="image" src="https://github.com/user-attachments/assets/50ecd4ff-9ea3-45bc-8930-6a29d46e5431" />
+
 
 </div>
 
@@ -173,12 +174,14 @@ La funcionalidad permite monitorear:
 - ✅ Cumplimiento de actividades
 
 ---
+
 ## Figura 9. Interfaz del perfil de usuario
 <div align="center">
 
 <img width="729" height="453" alt="image" src="https://github.com/user-attachments/assets/ea4bf1be-966e-43f7-ac15-4b68130d5d15" />
 
 </div>
+
 
 # 🩺 Módulo Personal de Salud
 
