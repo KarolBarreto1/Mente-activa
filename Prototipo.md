@@ -179,7 +179,8 @@ La funcionalidad permite monitorear:
 
 <div align="center">
 
-<img width="729" height="453" alt="image" src="https://github.com/user-attachments/assets/ea4bf1be-966e-43f7-ac15-4b68130d5d15" />
+<img width="624" height="449" alt="image" src="https://github.com/user-attachments/assets/8cde27a8-4ec9-4b31-b3e1-16b0b20dc4a6" />
+
 
 </div>
 
