@@ -228,7 +228,8 @@ Esta interfaz corresponde al entorno principal del profesional de salud, donde s
 
 <div align="center">
 
-<img width="502" height="324" alt="Captura de pantalla 2026-05-13 002400" src="https://github.com/user-attachments/assets/30c5648d-580a-43af-935d-b6e1bd52ebcd" />
+<img width="1272" height="826" alt="Captura de pantalla 2026-05-13 005147" src="https://github.com/user-attachments/assets/87065d3f-a55b-40a4-a781-33d5faf6113a" />
+
 
 
 </div>
