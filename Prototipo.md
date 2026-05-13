@@ -291,7 +291,7 @@ Incluye:
 
 <div align="center">
 
-<img width="500" height="364" alt="Captura de pantalla 2026-05-13 002346" src="https://github.com/user-attachments/assets/50f40992-2dbf-401d-9684-6f7dc08c3cc0" />
+<img width="416" height="453" alt="image" src="https://github.com/user-attachments/assets/3f58b483-a252-4b90-b84f-7763f9f69440" />
 
 
 </div>
