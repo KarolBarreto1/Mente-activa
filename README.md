@@ -24,11 +24,11 @@ La plataforma busca apoyar a cuidadores, familiares y profesionales de la salud 
 ✅ Ejecutar actividades de estimulación cognitiva  
 ✅ Visualizar el progreso y evolución del paciente  
 
----
+
 # 🎯 Objetivo General
 
 Diseñar y desarrollar un sistema web de estimulación cognitiva y seguimiento terapéutico para personas con Alzheimer en etapa inicial, facilitando el registro, organización y monitoreo de la información del paciente.
----
+
 
 # ⚙️ Tecnologías Utilizadas
 
