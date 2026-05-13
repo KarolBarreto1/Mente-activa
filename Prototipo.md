@@ -58,7 +58,8 @@ Una vez seleccionada la opción correspondiente, el usuario podrá continuar con
 
 <div align="center">
 
-<img width="921" height="621" alt="image" src="https://github.com/user-attachments/assets/46239aba-f9d3-4c95-be9d-eafed099036a" />
+<img width="601" height="395" alt="image" src="https://github.com/user-attachments/assets/4ed09c2f-40d7-42aa-9937-dc5173e923c2" />
+
 
 </div>
 
