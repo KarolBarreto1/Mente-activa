@@ -188,6 +188,7 @@ La funcionalidad permite monitorear:
 
 <div align="center">
 
+<img width="500" height="333" alt="Captura de pantalla 2026-05-13 004410" src="https://github.com/user-attachments/assets/65a6836b-5829-42e1-9bb1-55a5d593773e" />
 
 </div>
 
@@ -207,7 +208,7 @@ Además, ofrece opciones como:
 
 <div align="center">
 
-<img width="501" height="331" alt="Captura de pantalla 2026-05-13 002414" src="https://github.com/user-attachments/assets/bfe8dd48-24f5-4d31-91f7-a00209e5b125" />
+
 
 
 </div>
