@@ -175,17 +175,19 @@ La funcionalidad permite monitorear:
 
 ---
 
-# 🧠 Interfaz de Estimulacion Cognitiva
+
 
  ## Figura 9. Interfaz del perfil de usuario
 
+
  <div align="center">
 
-<img width="624" height="449" alt="image" src="https://github.com/user-attachments/assets/8cde27a8-4ec9-4b31-b3e1-16b0b20dc4a6" />
+<img width="399" height="439" alt="image" src="https://github.com/user-attachments/assets/c29c398b-ca94-4890-9131-580a551ed0d7" />
+
 
 </div>
  
-
+Esta interfaz corresponde al módulo de perfil de usuario. En este entono el usuario puede visualizar y gestionar su información personal de manera organizada y segura. Se muestran datos básicos del perfil, la información del contacto, datos del cuidador asignado, profesional de salud relacionado y contactos de emergencia.
 
 
 
