@@ -34,7 +34,7 @@ En este entorno se presentan las diferentes opciones principales de navegación,
 
 <div align="center">
 
-<img width="621" height="399" alt="image" src="https://github.com/user-attachments/assets/9decfd39-8d33-4971-818c-833b6881e279" />
+<img width="635" height="402" alt="image" src="https://github.com/user-attachments/assets/3c8d7e97-ee35-449f-8bd8-9745d9423c47" />
 
 
 </div>
@@ -176,6 +176,7 @@ La funcionalidad permite monitorear:
 ---
 
 ## Figura 9. Interfaz del perfil de usuario
+
 <div align="center">
 
 <img width="729" height="453" alt="image" src="https://github.com/user-attachments/assets/ea4bf1be-966e-43f7-ac15-4b68130d5d15" />
