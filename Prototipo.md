@@ -93,7 +93,7 @@ Esta funcionalidad permite acceder a las actividades, seguimientos y herramienta
 
 <div align="center">
 
-<img width="921" height="621" alt="image" src="https://github.com/user-attachments/assets/1ba0f3b6-dc66-474c-94ec-3625f97f8140" />
+<img width="430" height="278" alt="image" src="https://github.com/user-attachments/assets/77a1c780-4375-4f75-8358-fe842df60009" />
 
 </div>
 
@@ -114,7 +114,8 @@ Facilitando un acompañamiento integral y personalizado.
 
 <div align="center">
 
-<img width="921" height="616" alt="image" src="https://github.com/user-attachments/assets/3da71863-b86f-4054-a74a-9ee94f228811" />
+<img width="423" height="394" alt="image" src="https://github.com/user-attachments/assets/a4c29029-451f-4947-8bfa-2347979c0c09" />
+
 
 </div>
 
@@ -135,7 +136,7 @@ Mediante ejercicios interactivos adaptados a las necesidades del usuario.
 
 <div align="center">
 
-<img width="921" height="626" alt="image" src="https://github.com/user-attachments/assets/763ef46b-9b3b-42b4-9f66-74d949b3c0fb" />
+<img width="431" height="503" alt="image" src="https://github.com/user-attachments/assets/c8ff35fc-0499-46b8-8722-9291b8f7f074" />
 
 </div>
 
@@ -156,7 +157,7 @@ Facilitando el cumplimiento adecuado de la medicación diaria.
 
 <div align="center">
 
-<img width="921" height="641" alt="image" src="https://github.com/user-attachments/assets/24c231c9-90ee-4547-8a2f-1bd850a4f236" />
+<img width="430" height="478" alt="image" src="https://github.com/user-attachments/assets/6b0e4518-d965-4df8-a35e-479585119a9b" />
 
 </div>
 
