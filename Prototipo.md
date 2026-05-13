@@ -175,14 +175,13 @@ La funcionalidad permite monitorear:
 
 ---
 
-## Figura 9. Interfaz del perfil de usuario
-
-<div align="center">
-
-<img width="624" height="449" alt="image" src="https://github.com/user-attachments/assets/8cde27a8-4ec9-4b31-b3e1-16b0b20dc4a6" />
 
 
-</div>
+
+
+
+
+
 
 
 # 🩺 Módulo Personal de Salud
