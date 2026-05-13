@@ -15,6 +15,8 @@ El sistema cuenta con diferentes módulos dirigidos a pacientes, cuidadores y pe
 # 🏠 Interfaz Pantalla Principal
 
 ## Figure 1. Interfaz pantalla principal
+<img width="859" height="606" alt="image" src="https://github.com/user-attachments/assets/555deb5b-8e93-4a70-8cba-c4521260bd32" />
+
 
 <div align="center">
 
@@ -34,7 +36,7 @@ En este entorno se presentan las diferentes opciones principales de navegación,
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="921" height="647" alt="image" src="https://github.com/user-attachments/assets/5387d403-122e-4602-8e30-19139b9e17b0" />
 
 </div>
 
@@ -54,9 +56,10 @@ Una vez seleccionada la opción correspondiente, el usuario podrá continuar con
 
 ## Figure 3. Interfaz inicio de sesión, Paciente/Cuidador o Personal de Salud
 
+
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="921" height="621" alt="image" src="https://github.com/user-attachments/assets/46239aba-f9d3-4c95-be9d-eafed099036a" />
 
 </div>
 
@@ -76,7 +79,7 @@ Esta funcionalidad permite adaptar las herramientas y servicios según las neces
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="916" height="641" alt="image" src="https://github.com/user-attachments/assets/1a1269e1-a566-4be9-ab1f-41022832245d" />
 
 </div>
 
@@ -92,7 +95,7 @@ Esta funcionalidad permite acceder a las actividades, seguimientos y herramienta
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="921" height="621" alt="image" src="https://github.com/user-attachments/assets/1ba0f3b6-dc66-474c-94ec-3625f97f8140" />
 
 </div>
 
@@ -113,7 +116,7 @@ Facilitando un acompañamiento integral y personalizado.
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="921" height="616" alt="image" src="https://github.com/user-attachments/assets/3da71863-b86f-4054-a74a-9ee94f228811" />
 
 </div>
 
@@ -134,7 +137,7 @@ Mediante ejercicios interactivos adaptados a las necesidades del usuario.
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="921" height="626" alt="image" src="https://github.com/user-attachments/assets/763ef46b-9b3b-42b4-9f66-74d949b3c0fb" />
 
 </div>
 
@@ -155,7 +158,7 @@ Facilitando el cumplimiento adecuado de la medicación diaria.
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="921" height="641" alt="image" src="https://github.com/user-attachments/assets/24c231c9-90ee-4547-8a2f-1bd850a4f236" />
 
 </div>
 
@@ -169,6 +172,13 @@ La funcionalidad permite monitorear:
 - ✅ Cumplimiento de actividades
 
 ---
+## Figure 9. Interfaz del perfil de usuario
+
+<div align="center">
+
+<img width="864" height="600" alt="image" src="https://github.com/user-attachments/assets/9fa240ff-b9fa-4258-aef3-c30da8a64c28" />
+
+</div>
 
 # 🩺 Módulo Personal de Salud
 
@@ -176,7 +186,7 @@ La funcionalidad permite monitorear:
 
 # 🔐 Inicio de Sesión Personal de Salud
 
-## Figure 9. Inicio sesión personal salud
+## Figure 10. Inicio sesión personal salud
 
 <div align="center">
 
@@ -196,7 +206,7 @@ Además, ofrece opciones como:
 
 # 📋 Dashboard Personal de Salud
 
-## Figure 10. Dashboard personal salud
+## Figure 11. Dashboard personal salud
 
 <div align="center">
 
@@ -215,7 +225,7 @@ Esta interfaz corresponde al entorno principal del profesional de salud, donde s
 
 # 👨‍⚕️ Interfaz Gestión de Pacientes
 
-## Figure 11. Interfaz gestión pacientes
+## Figure 12. Interfaz gestión pacientes
 
 <div align="center">
 
@@ -237,7 +247,7 @@ Incluye funcionalidades como:
 
 # 🧠 Interfaz Estimulación Cognitiva
 
-## Figure 12. Interfaz estimulación cognitiva
+## Figure 13. Interfaz estimulación cognitiva
 
 <div align="center">
 
@@ -259,7 +269,7 @@ Incluye:
 
 # 📑 Interfaz Seguimiento Terapéutico
 
-## Figure 13. Interfaz seguimiento terapéutico
+## Figure 14. Interfaz seguimiento terapéutico
 
 <div align="center">
 
@@ -280,7 +290,7 @@ Esta interfaz permite realizar seguimiento terapéutico de los pacientes mediant
 
 # 💊 Interfaz Control de Medicamentos
 
-## Figure 14. Interfaz control medicamentos personal salud
+## Figure 15. Interfaz control medicamentos personal salud
 
 <div align="center">
 
@@ -302,7 +312,7 @@ Incluye funcionalidades como:
 
 # 📈 Interfaz Reportes y Estadísticas
 
-## Figure 15. Interfaz reportes y estadísticas
+## Figure 16. Interfaz reportes y estadísticas
 
 <div align="center">
 
@@ -321,7 +331,7 @@ Esta interfaz corresponde al módulo de reportes y estadísticas, donde el perso
 
 # 👤 Interfaz Perfil de Usuario
 
-## Figure 16. Interfaz perfil de usuario
+## Figure 17. Interfaz perfil de usuario
 
 <div align="center">
 
