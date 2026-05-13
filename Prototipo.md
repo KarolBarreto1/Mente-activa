@@ -89,7 +89,7 @@ Esta funcionalidad permite acceder a las actividades, seguimientos y herramienta
 
 # 🏡 Interfaz Principal del Paciente/Cuidador
 
-## Figure 5. Interfaz principal del paciente/cuidador
+## Figura 5. Interfaz principal del paciente/cuidador
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Facilitando un acompañamiento integral y personalizado.
 
 # 🧠 Interfaz de Actividades Cognitivas
 
-## Figure 6. Interfaz de actividades cognitivas
+## Figura 6. Interfaz de actividades cognitivas
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Mediante ejercicios interactivos adaptados a las necesidades del usuario.
 
 # 💊 Interfaz de Medicamentos
 
-## Figure 7. Interfaz de medicamentos
+## Figura 7. Interfaz de medicamentos
 
 <div align="center">
 
@@ -152,7 +152,7 @@ Facilitando el cumplimiento adecuado de la medicación diaria.
 
 # 📊 Interfaz de Progreso del Paciente
 
-## Figure 8. Interfaz progreso del paciente
+## Figura 8. Interfaz progreso del paciente
 
 <div align="center">
 
@@ -170,7 +170,7 @@ La funcionalidad permite monitorear:
 - ✅ Cumplimiento de actividades
 
 ---
-## Figure 9. Interfaz del perfil de usuario
+## Figura 9. Interfaz del perfil de usuario
 
 <div align="center">
 
@@ -184,11 +184,10 @@ La funcionalidad permite monitorear:
 
 # 🔐 Inicio de Sesión Personal de Salud
 
-## Figure 10. Inicio sesión personal salud
+## Figura 10. Inicio sesión personal salud
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
 
 </div>
 
@@ -204,11 +203,12 @@ Además, ofrece opciones como:
 
 # 📋 Dashboard Personal de Salud
 
-## Figure 11. Dashboard personal salud
+## Figura 11. Dashboard personal salud
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="501" height="331" alt="Captura de pantalla 2026-05-13 002414" src="https://github.com/user-attachments/assets/bfe8dd48-24f5-4d31-91f7-a00209e5b125" />
+
 
 </div>
 
@@ -223,11 +223,12 @@ Esta interfaz corresponde al entorno principal del profesional de salud, donde s
 
 # 👨‍⚕️ Interfaz Gestión de Pacientes
 
-## Figure 12. Interfaz gestión pacientes
+## Figura 12. Interfaz gestión pacientes
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="502" height="324" alt="Captura de pantalla 2026-05-13 002400" src="https://github.com/user-attachments/assets/30c5648d-580a-43af-935d-b6e1bd52ebcd" />
+
 
 </div>
 
@@ -245,11 +246,12 @@ Incluye funcionalidades como:
 
 # 🧠 Interfaz Estimulación Cognitiva
 
-## Figure 13. Interfaz estimulación cognitiva
+## Figura 13. Interfaz estimulación cognitiva
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="500" height="364" alt="Captura de pantalla 2026-05-13 002346" src="https://github.com/user-attachments/assets/44665760-e62c-465a-8344-04282d6b707a" />
+
 
 </div>
 
@@ -267,11 +269,12 @@ Incluye:
 
 # 📑 Interfaz Seguimiento Terapéutico
 
-## Figure 14. Interfaz seguimiento terapéutico
+## Figura 14. Interfaz seguimiento terapéutico
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="500" height="364" alt="Captura de pantalla 2026-05-13 002346" src="https://github.com/user-attachments/assets/50f40992-2dbf-401d-9684-6f7dc08c3cc0" />
+
 
 </div>
 
@@ -288,11 +291,12 @@ Esta interfaz permite realizar seguimiento terapéutico de los pacientes mediant
 
 # 💊 Interfaz Control de Medicamentos
 
-## Figure 15. Interfaz control medicamentos personal salud
+## Figura 15. Interfaz control medicamentos personal salud
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="499" height="569" alt="Captura de pantalla 2026-05-13 002325" src="https://github.com/user-attachments/assets/05cecdb4-7fe8-4419-82a9-6ddac145a8bb" />
+
 
 </div>
 
@@ -310,11 +314,12 @@ Incluye funcionalidades como:
 
 # 📈 Interfaz Reportes y Estadísticas
 
-## Figure 16. Interfaz reportes y estadísticas
+## Figura 16. Interfaz reportes y estadísticas
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="505" height="548" alt="Captura de pantalla 2026-05-13 002315" src="https://github.com/user-attachments/assets/e766bf43-9287-47c6-b40d-5b385b949827" />
+
 
 </div>
 
@@ -329,11 +334,12 @@ Esta interfaz corresponde al módulo de reportes y estadísticas, donde el perso
 
 # 👤 Interfaz Perfil de Usuario
 
-## Figure 17. Interfaz perfil de usuario
+## Figura 17. Interfaz perfil de usuario
 
 <div align="center">
 
-AGREGAR IMAGEN AQUÍ
+<img width="500" height="550" alt="Captura de pantalla 2026-05-13 002302" src="https://github.com/user-attachments/assets/e4ec2a2a-9746-4708-ac60-1c3aa89c69b0" />
+
 
 </div>
 
