@@ -30,7 +30,7 @@ En este entorno se presentan las diferentes opciones principales de navegación,
 
 # 📝 Interfaz Registrarse
 
-## Figure 2. Interfaz registrarse
+## Figura 2. Interfaz registrarse
 
 <div align="center">
 
@@ -52,7 +52,7 @@ Una vez seleccionada la opción correspondiente, el usuario podrá continuar con
 
 # 🔐 Interfaz Inicio de Sesión
 
-## Figure 3. Interfaz inicio de sesión, Paciente/Cuidador o Personal de Salud
+## Figura 3. Interfaz inicio de sesión, Paciente/Cuidador o Personal de Salud
 
 
 <div align="center">
@@ -73,7 +73,7 @@ Esta funcionalidad permite adaptar las herramientas y servicios según las neces
 
 # 🔑 Inicio de Sesión Paciente/Cuidador
 
-## Figure 4. Inicio de sesión Paciente/Cuidador
+## Figura 4. Inicio de sesión Paciente/Cuidador
 
 <div align="center">
 
