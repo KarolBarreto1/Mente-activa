@@ -12,7 +12,6 @@
 </div>
 
 ---
-
 # 📖 Descripción del Proyecto
 
 Este proyecto tiene como propósito el diseño y desarrollo de un sistema web orientado a la estimulación cognitiva y el seguimiento terapéutico de personas con Alzheimer en etapa inicial pertenecientes a la Fundación AFACOL de la ciudad de Bogotá.
@@ -26,11 +25,9 @@ La plataforma busca apoyar a cuidadores, familiares y profesionales de la salud 
 ✅ Visualizar el progreso y evolución del paciente  
 
 ---
-
 # 🎯 Objetivo General
 
 Diseñar y desarrollar un sistema web de estimulación cognitiva y seguimiento terapéutico para personas con Alzheimer en etapa inicial, facilitando el registro, organización y monitoreo de la información del paciente.
-
 ---
 
 # ⚙️ Tecnologías Utilizadas
@@ -52,4 +49,10 @@ Diseñar y desarrollar un sistema web de estimulación cognitiva y seguimiento t
 - 📁 Historial terapéutico
 - 📱 Navegación intuitiva y accesible
 
+
 ---
+## Metodología de desarrollo
+El proyecto se desarrolla bajo la metodología ágil Scrum, organizada por sprints para el análisis, diseño, validación y documentación del sistema.
+
+## 👩‍💻Prototipo en Figma
+https://www.figma.com/proto/xG7il7QttbG6YVnvu1vvBt/Prototipo-Mnete-Activa?node-id=1-2&starting-point-node-id=1%3A2&t=QTbmeXARLiSht0YE-1 
