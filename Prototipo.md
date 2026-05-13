@@ -34,7 +34,8 @@ En este entorno se presentan las diferentes opciones principales de navegación,
 
 <div align="center">
 
-<img width="921" height="647" alt="image" src="https://github.com/user-attachments/assets/5387d403-122e-4602-8e30-19139b9e17b0" />
+<img width="621" height="399" alt="image" src="https://github.com/user-attachments/assets/9decfd39-8d33-4971-818c-833b6881e279" />
+
 
 </div>
 
