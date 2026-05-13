@@ -172,7 +172,6 @@ La funcionalidad permite monitorear:
 
 ---
 ## Figura 9. Interfaz del perfil de usuario
-
 <div align="center">
 
 <img width="729" height="453" alt="image" src="https://github.com/user-attachments/assets/ea4bf1be-966e-43f7-ac15-4b68130d5d15" />
