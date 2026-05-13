@@ -15,7 +15,8 @@ El sistema cuenta con diferentes módulos dirigidos a pacientes, cuidadores y pe
 # 🏠 Interfaz Pantalla Principal
 
 ## Figure 1. Interfaz pantalla principal
-<img width="859" height="606" alt="image" src="https://github.com/user-attachments/assets/555deb5b-8e93-4a70-8cba-c4521260bd32" />
+<img width="382" height="516" alt="image" src="https://github.com/user-attachments/assets/d314cf83-fe8a-4fc0-8f9e-41766a200d7c" />
+
 
 
 <div align="center">
