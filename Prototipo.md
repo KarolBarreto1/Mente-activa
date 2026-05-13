@@ -175,7 +175,7 @@ La funcionalidad permite monitorear:
 
 ---
 
-
+# 👤 Interfaz de Perfil del Paciente
 
  ## Figura 9. Interfaz del perfil de usuario
 
